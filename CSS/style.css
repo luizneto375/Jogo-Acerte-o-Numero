@@ -48,4 +48,11 @@ body {
 
 .content button {
     padding: .8rem;
+    width: 80%;
+    font-size: 1rem;
+    background-color: var(--color-blue2);
+    border: none;
+    border-radius: 1rem;
+    color: var(--color-white);
+    margin-top: 2rem;
 }
