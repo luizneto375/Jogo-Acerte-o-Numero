@@ -12,7 +12,8 @@ body {
     justify-content: center;
     align-items: center;
     background-color: var(--color-blue);
-    height: 50%;
+    height: 100%;
+    min-height: 445px;
 }
 
 .content {
