@@ -25,6 +25,8 @@ body {
     border-radius: 1rem;
     padding: 3rem;
     color: var(--color-white);
+    width: 50%;
+   
 }
 
 .content input {
@@ -55,4 +57,11 @@ body {
     border-radius: 1rem;
     color: var(--color-white);
     margin-top: 2rem;
+    cursor: pointer;
+    transition: .5s;
 }
+
+.content button:hover {
+    background-color: var(--color-blue);
+}
+
